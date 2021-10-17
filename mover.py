@@ -10,8 +10,8 @@ A program developed in python using the 'watchdog' library event listeners and '
 """
 
 config = {
-    "Directory_To": "/Users/kavyupadhyay/Desktop/OWIS/Subjects",
-    "Directory_From": "/Users/kavyupadhyay/Documents"
+    "Directory_To": "",
+    "Directory_From": ""
 # switch with directories that you have in your pc
 }
 
